@@ -1,0 +1,232 @@
+1732340010438	geckodriver	INFO	Listening on 127.0.0.1:51690
+1732340142779	geckodriver	INFO	Listening on 127.0.0.1:51753
+1732340145787	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "51754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91817\\AppData\\Local\\Temp\\rust_mozprofile8KmK7v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732340146459	Marionette	INFO	Marionette enabled
+1732340146706	Marionette	INFO	Listening on port 51762
+WebDriver BiDi listening on ws://127.0.0.1:51754
+Read port: 51762
+1732340146950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732340149633	Marionette	INFO	Stopped listening on port 51762
+Dynamically enable window occlusion 1
+1732363232981	geckodriver	INFO	Listening on 127.0.0.1:52437
+1732363236047	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "52438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91817\\AppData\\Local\\Temp\\rust_mozprofilerAKbYg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732363236576	Marionette	INFO	Marionette enabled
+1732363236744	Marionette	INFO	Listening on port 52450
+Read port: 52450
+WebDriver BiDi listening on ws://127.0.0.1:52438
+1732363236818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732363238887	Marionette	INFO	Stopped listening on port 52450
+Dynamically enable window occlusion 1
+1732364772894	geckodriver	INFO	Listening on 127.0.0.1:53101
+1732364775896	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "53102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91817\\AppData\\Local\\Temp\\rust_mozprofiletN5hPE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732364776606	Marionette	INFO	Marionette enabled
+1732364776788	Marionette	INFO	Listening on port 53111
+WebDriver BiDi listening on ws://127.0.0.1:53102
+Read port: 53111
+1732364776980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732364778867	Marionette	INFO	Stopped listening on port 53111
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  main/search-categorization Signature failed  [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 128"  data: no]
+console.error: ({})
+1732365171346	geckodriver	INFO	Listening on 127.0.0.1:53453
+1732365310212	geckodriver	INFO	Listening on 127.0.0.1:53560
+1732365313239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "535 ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91817\\AppData\\Local\\Temp\\rust_mozprofileMRm2x8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732365313805	Marionette	INFO	Marionette enabled
+1732365313956	Marionette	INFO	Listening on port 53570
+WebDriver BiDi listening on ws://127.0.0.1:53561
+Read port: 53570
+1732365314129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1732365315925	Marionette	INFO	Stopped listening on port 53570
+Dynamically enable window occlusion 1
+1732365355828	geckodriver	INFO	Listening on 127.0.0.1:53620
+1732365358868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "536 ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91817\\AppData\\Local\\Temp\\rust_mozprofileE5Qcc6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732365359272	Marionette	INFO	Marionette enabled
+1732365359360	Marionette	INFO	Listening on port 53629
+WebDriver BiDi listening on ws://127.0.0.1:53621
+Read port: 53629
+1732365359479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1732365361139	Marionette	INFO	Stopped listening on port 53629
+Dynamically enable window occlusion 1
+1732365389544	geckodriver	INFO	Listening on 127.0.0.1:53693
+1732365392566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "536 ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91817\\AppData\\Local\\Temp\\rust_mozprofile2IZsZT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732365392982	Marionette	INFO	Marionette enabled
+1732365393193	Marionette	INFO	Listening on port 53701
+WebDriver BiDi listening on ws://127.0.0.1:53694
+Read port: 53701
+1732365393315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1732365396824	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1732365398592	Marionette	INFO	Stopped listening on port 53701
+JavaScript warning: https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 4012: Script terminated by timeout at:
+is</a.prototype._initializeProperties@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4012:497
+dt</a.prototype._initializeProperties@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4427:282
+b@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3802:789
+a@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3845:23
+b@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3860:50
+a@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3923:62
+e@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3833:36
+a@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4006:40
+b@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4160:51
+a@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4326:223
+a@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4414:293
+d@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:7067:138
+b@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:7077:50
+e@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4485:76
+Zhb/<@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:7283:205
+ctor@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:7292:34
+w@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:7302:278
+g@https://www.youtube.com/s/desktop/8b0677e9/jsbin/custom-elements-es5-adapter.vflset/custom-elements-es5-adapter.js:11:124
+tMa</b.prototype._stampTemplate@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3871:219
+hs</a.prototype._stampTemplate@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3981:115
+is</a.prototype.ready@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4018:62
+XOa</a.prototype.ready@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4329:48
+dt</a.prototype.ready@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4430:73
+zQa/e.prototype.ready@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4491:48
+ctor/L.ready@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:7292:233
+$La</b.prototype._enableProperties@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3818:209
+dt</a.prototype._enableProperties@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4419:98
+dMa</e.prototype.connectedCallback@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3838:119
+XOa</a.prototype.connectedCallback@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4330:103
+dt</a.prototype.connectedCallback@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:4421:157
+Ggb</d.prototype.connectedCallback@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:7071:152
+Hz@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:7323:209
+vib/d.prototype.appendChild</<@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:7327:104
+insertBefore@https://www.youtube.com/s/desktop/8b0677e9/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:64:445
+k.insertBefore@https://www.youtube.com/s/desktop/8b0677e9/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:121:489
+vib/d.prototype.insertBefore</<@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:7325:487
+stampDomArraySplices_@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:8353:426
+rendererStamperApplyChangeRecord_@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:8349:11
+rendererStamperObserver_@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:8346:149
+KMa@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3914:119
+es@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3896:218
+hs</a.prototype._propertiesChanged@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3948:124
+Kgb</b.prototype._propertiesChanged@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:7081:309
+$La</b.prototype._flushProperties@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3819:200
+hs</a.prototype._invalidateProperties@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3940:69
+hs</a.prototype.notifyPath@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3963:182
+WMa@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3921:91
+fs@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3922:29
+hs</a.prototype.push@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:3958:130
+fillRange_@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:15889:117
+renderChunk_@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:15893:180
+S@https://www.youtube.com/s/desktop/8b0677e9/jsbin/scheduler.vflset/scheduler.js:45:19
+V@https://www.youtube.com/s/desktop/8b0677e9/jsbin/scheduler.vflset/scheduler.js:54:415
+g.S@https://www.youtube.com/s/desktop/8b0677e9/jsbin/scheduler.vflset/scheduler.js:50:84
+window.requestAnimationFrame/<@https://www.youtube.com/s/desktop/8b0677e9/jsbin/web-animations-next-lite.min.vflset/web-animations-next-lite.min.js:96:192
+
+JavaScript error: https://www.google.com/js/th/FaW0q-y8JjmoU9T0UDvbGph-S7KEa5MvRd-6bYW3ujg.js line 2 > eval, line 973: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 6150: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+1732366489984	geckodriver	INFO	Listening on 127.0.0.1:54174
+1732386514795	geckodriver	INFO	Listening on 127.0.0.1:57773
+1732386517840	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "57774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91817\\AppData\\Local\\Temp\\rust_mozprofileqxAHCZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732386518434	Marionette	INFO	Marionette enabled
+1732386518618	Marionette	INFO	Listening on port 57785
+WebDriver BiDi listening on ws://127.0.0.1:57774
+Read port: 57785
+1732386518820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732386521414	Marionette	INFO	Stopped listening on port 57785
+Dynamically enable window occlusion 1
+console.error: SearchTelemetry: (new TypeError("this[#store] is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 2755))
+1732386556701	geckodriver	INFO	Listening on 127.0.0.1:57841
+1732386559720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "578 ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91817\\AppData\\Local\\Temp\\rust_mozprofile6r3Zpk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732386560407	Marionette	INFO	Marionette enabled
+1732386560544	Marionette	INFO	Listening on port 57852
+WebDriver BiDi listening on ws://127.0.0.1:57842
+Read port: 57852
+1732386560749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1732386564947	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1732386566722	Marionette	INFO	Stopped listening on port 57852
+JavaScript warning: https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 6356: Script terminated by timeout at:
+w9a/<@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:6356:288
+Aa@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:42:401
+paa/this.next@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:44:169
+b@https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js:48:85
+
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/desktop/8b0677e9/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1936: Error: no transition specified from flush_logs to document_disposed
