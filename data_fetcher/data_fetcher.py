@@ -22,7 +22,7 @@ class fetcher:
             options = webdriver.ChromeOptions()
             options.add_argument('--headless')
 
-            driver_path = r"C:\Users\91817\Desktop\AQI-Predictor\data_fetcher\chromedriver.exe"
+            driver_path = r"./data_fetcher/chromedriver.exe"
             if browser_path != 'undefined':
                 options.binary_location = browser_path
             self.driver = webdriver.Chrome(service=webdriver.chrome.service.Service(driver_path), options=options)
@@ -35,7 +35,7 @@ class fetcher:
             options = webdriver.FirefoxOptions()
             options.add_argument('--headless')
 
-            driver_path = r"C:\Users\91817\Desktop\AQI-Predictor\data_fetcher\geckodriver.exe"
+            driver_path = r"./data_fetcher/geckodriver.exe"
             if browser_path != 'undefined':
                 options.binary_location = browser_path
             self.driver = webdriver.Firefox(service=webdriver.firefox.service.Service(driver_path), options=options)
